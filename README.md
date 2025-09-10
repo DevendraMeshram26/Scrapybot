@@ -6,3 +6,5 @@ It allows users to:<br>
 ● Receive an automatic summary of the webpage.<br>
 ● Engage in a Q&A conversation about the scraped content.<br>
 ● Get accurate, context-aware responses based on the webpage's content.<br>
+
+<img src="Screenshot (66).png" alt="Alt text" width="300" />
